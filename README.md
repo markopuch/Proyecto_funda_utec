@@ -10,7 +10,7 @@ roslaunch lab1 display_irb5400_sliders.launch
 
 ### otra forma
 
-roslaunch proy display_irb5400.launch
+roslaunch lab1 display_irb5400.launch
 
 rosrun lab1 node_joints.py
 
