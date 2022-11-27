@@ -1,8 +1,8 @@
 # Proyecto_funda_utec
-##dependiendo de tu espacio de trabajo
+## dependiendo de tu espacio de trabajo
 cd ~
 source ~/lab_ws/devel/setup.bash
-##Descarga
+## Descarga
 descargar estas carpetas dentro de tu src de tu espacio de trabajo
 
 ## visualizacion del robot
