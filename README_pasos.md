@@ -2,6 +2,9 @@
 ##dependiendo de tu espacio de trabajo
 cd ~
 source ~/lab_ws/devel/setup.bash
+##Descarga
+descargar estas carpetas dentro de tu src de tu espacio de trabajo
+
 ## visualizacion del robot
 roslaunch proy display_irb5400_sliders.launch
 
