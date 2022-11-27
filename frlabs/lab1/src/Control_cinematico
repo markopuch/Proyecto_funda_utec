@@ -94,7 +94,7 @@ if __name__ == '__main__':
         e=pos-xd
         epunto=-k*e
         qpunto=Jinv.dot(epunto)
-	    Jgeo=jacobian_geom(q0)
+	Jgeo=jacobian_geom(q0)
         n=np.linalg.matrix_rank(Jgeo)
         q = q+dt*qpunto
         det=np.linalg.det(Jgeo.dot(np.transpose(Jgeo))) 
